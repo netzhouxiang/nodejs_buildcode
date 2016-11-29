@@ -1,0 +1,2 @@
+# nodejs_buildcode
+快速生成nodejs下mysql mssql数据库的数据访问类库,方便创建应用
