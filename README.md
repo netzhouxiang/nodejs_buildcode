@@ -3,6 +3,6 @@
 # MYSQL文档地址 
 http://zhouxiang.decadework.com:3001/article/1020
 （注:mysql提供的默认模板里,部分SQL语法有错误,自行修改）
-# MSSQK文档地址
+# MSSQL文档地址
 http://zhouxiang.decadework.com:3001/article/1002
 （注:mssql提供的模板已经过商用,无BUG,可自行添加默认方法）
